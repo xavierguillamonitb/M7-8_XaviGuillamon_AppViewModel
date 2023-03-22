@@ -1,1 +1,0 @@
-# M7-8_XaviGuillamon_AppViewModel
